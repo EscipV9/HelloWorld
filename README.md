@@ -1,2 +1,3 @@
 # HelloWorld
-Imprimir vectorial de carreteras W/B
+Imprimir mapa vectorial de carreteras W/B
+en escala grande, filtrando edificios y textos
